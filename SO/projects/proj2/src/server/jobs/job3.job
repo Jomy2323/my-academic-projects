@@ -1,0 +1,7 @@
+WRITE [(KeyF,ValF)]
+WAIT 15000
+SHOW
+WRITE [(KeyG,ValG)(KeyH,ValH)]
+SHOW
+WAIT 5000
+SHOW

@@ -1,0 +1,6 @@
+WRITE [(KeyC,ValC)(KeyD,ValD)]
+SHOW
+WAIT 10000
+SHOW
+WRITE [(KeyE,ValE)]
+SHOW

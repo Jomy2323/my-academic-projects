@@ -1,0 +1,9 @@
+WRITE [(KeyA,ValA)(KeyB,ValB)]
+SHOW
+WAIT 20000
+WRITE [(KeyA,UpdatedValA)]
+SHOW
+WAIT 40000
+DELETE [KeyB]
+SHOW
+
